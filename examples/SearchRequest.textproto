@@ -1,0 +1,7 @@
+query: "test"
+page_number: 5
+results_per_page: 10
+author: {
+	name: "Alex"
+	surname: "Parker"
+}
